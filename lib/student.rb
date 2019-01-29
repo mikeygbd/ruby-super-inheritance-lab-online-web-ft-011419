@@ -1,5 +1,5 @@
 class Student
-  attr_accessor :chattyStudent
+  # attr_accessor :chattyStudent
   def initialize
 
   end
